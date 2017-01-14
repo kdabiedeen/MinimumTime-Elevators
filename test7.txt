@@ -1,0 +1,7 @@
+top(7).
+elevators(5).
+elevator(1,0,3).
+elevator(2,2,3).
+elevator(3,2,4).
+elevator(4,4,7).
+elevator(5,3,7).

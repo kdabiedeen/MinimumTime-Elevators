@@ -1,0 +1,12 @@
+top(19). 
+elevators(10). 
+elevator(1,0,6). 
+elevator(2,6,19). 
+elevator(3,3,6). 
+elevator(4,3,9).
+elevator(5,9,19).
+elevator(6,3,13).
+elevator(7,13,17).
+elevator(8,17,19).
+elevator(9,9,17).
+elevator(10,6,17).
